@@ -63,7 +63,7 @@ Reconciles hundreds of daily Elliott Wave analyst posts against one person's por
 
 ## Toolbox
 
-**Languages:** Python, SQL, JavaScript, Java, C#, HTML/CSS
-**Data and cloud:** Azure SQL, Power BI, AWS EC2, Vercel, SQLite
-**Automation and integration:** Power Automate, Copilot Studio, REST and GraphQL APIs, GitHub API, Office Scripts
-**Practices:** requirements engineering, Scrum (Jira, Confluence), automated testing, technical documentation
+- **Languages:** Python, SQL, JavaScript, Java, C#, HTML/CSS
+- **Data and cloud:** Azure SQL, MySQL, Power BI, AWS EC2, Vercel, SQLite
+- **Automation and integration:** Power Automate, Copilot Studio, REST and GraphQL APIs, GitHub API, Office Scripts
+- **Practices:** requirements engineering, Scrum (Jira, Confluence), automated testing, technical documentation
