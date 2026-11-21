@@ -54,7 +54,7 @@ Reconciles hundreds of daily Elliott Wave analyst posts against one person's por
 | Project | What I built | Tech |
 |---|---|---|
 | **Birding Lists web app** (SE 3316) | Full-stack app with a REST API, server-side validation and 100 automated tests, deployed on AWS EC2 | Node.js, Express, JavaScript, AWS |
-| **Preventive maintenance database** (SE 3309, team of 4) | Schema, synthetic data generator and load pipeline for about 3 years of work orders, time entries and parts | SQL, Python |
+| **[Preventive maintenance database](https://github.com/aryankuckreja/preventive-maintenance-db)** (SE 3309, team of 4) | 14-table schema with 5 triggers. I built the seeded generator (26,000 rows that pass every rule) and the staged load, then added window-function analytics and CI tests on MySQL 8 | MySQL, SQL, Python, GitHub Actions |
 | **WEVE campus wayfinding world** (SE 3351, team of 5) | Two-week Scrum sprint in Jira and Confluence: reviews, clean-copy testing and timed user tests | Scrum, Jira, Luanti |
 | **Brushover** (SE 2250, team) | Game built in Unity | Unity, C# |
 | **REST services** (SE 2203) | Spring Boot REST APIs | Java, Spring Boot |
