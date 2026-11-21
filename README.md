@@ -43,9 +43,13 @@ Reconciles hundreds of daily Elliott Wave analyst posts against one person's por
 
 **BI & Application QA and Support Intern** · Black & McDonald · May to Aug 2025
 - Validated Power BI reports against source data with SQL and traced data lineage during an ETL migration.
+- Tracked UAT defects through the ReportsNow to Power BI migration across production ETL pipelines (Qlik Replicate, SSIS).
 
 **Web Developer** · Retirement residences (client work) · May 2026 to present
 - Product owner and technical lead for two residence websites, from requirements and stakeholder feedback to infrastructure, deployment and live testing.
+
+**Teaching Assistant** · Spirit of Math Schools · 2021 to 2024
+- Provided one-on-one support and led small-group problem solving for students, preparing learning materials for classes of 20.
 
 ---
 
@@ -67,3 +71,4 @@ Reconciles hundreds of daily Elliott Wave analyst posts against one person's por
 - **Data and cloud:** Azure SQL, MySQL, Power BI, AWS EC2, Vercel, SQLite
 - **Automation and integration:** Power Automate, Copilot Studio, REST and GraphQL APIs, GitHub API, Office Scripts
 - **Practices:** requirements engineering, Scrum (Jira, Confluence), automated testing, technical documentation
+- **How I work:** I use Claude as a working part of my development process. I set the requirements and architecture, direct the work, and review and test every change before it ships.
